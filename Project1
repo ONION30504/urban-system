@@ -1,1 +1,30 @@
+<!DOCTYPE html>
 
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>ONION Website</title>
+    </head>
+    <body>
+        <h1>論一個人學了html都會寫什麼？</h1>
+        <p>人生好難</p>
+        <h2>輕鬆自殺的方法 Lists</h2>
+        <ul>
+            <li>跳樓
+            <li>...
+        </ul>
+        <p>太多了所以用數字清單好了</p>
+        <ol>
+            <li>跳樓
+            <li>上吊
+            <li>...
+        </ol>
+        <p><em>test123</em></p>
+        <p><strong>test123</strong></p>
+        <hr/>
+        <p>在這邊<br/>你就寫完如何自殺的html程式碼了！</p>
+
+
+    </body>
+
+</html>
